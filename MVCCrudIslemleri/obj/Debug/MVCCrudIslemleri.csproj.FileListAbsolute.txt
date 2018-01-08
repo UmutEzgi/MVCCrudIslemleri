@@ -1,0 +1,92 @@
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\csc.exe
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\vbc.exe
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\VBCSCompiler.exe
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\MVCCrudIslemleri.dll.config
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\MVCCrudIslemleri.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\MVCCrudIslemleri.pdb
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\EntityFramework.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\EntityFramework.SqlServer.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Helpers.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Mvc.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Razor.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.Razor.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\EntityFramework.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\EntityFramework.SqlServer.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Razor.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.Razor.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Helpers.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Mvc.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\obj\Debug\MVCCrudIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\obj\Debug\MVCCrudIslemleri.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\obj\Debug\MVCCrudIslemleri.pdb
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\FluentValidation.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\FluentValidation.Mvc.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\Unity.Abstractions.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\Unity.Container.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\Unity.Mvc.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\WebActivatorEx.dll
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\FluentValidation.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\FluentValidation.Mvc.xml
+C:\Users\Wissen\Desktop\mvcProject\MVCCrudIslemleri\MVCCrudIslemleri\bin\Unity.Mvc.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\csc.exe
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\vbc.exe
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\VBCSCompiler.exe
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\MVCCrudIslemleri.dll.config
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\MVCCrudIslemleri.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\MVCCrudIslemleri.pdb
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\EntityFramework.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\EntityFramework.SqlServer.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\FluentValidation.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\FluentValidation.Mvc.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Helpers.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Mvc.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Razor.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.Razor.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\Unity.Abstractions.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\Unity.Container.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\Unity.Mvc.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\WebActivatorEx.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\EntityFramework.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\EntityFramework.SqlServer.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\FluentValidation.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\FluentValidation.Mvc.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\Unity.Mvc.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Razor.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Webpages.Razor.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Helpers.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\bin\System.Web.Mvc.xml
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\obj\Debug\MVCCrudIslemleri.csprojResolveAssemblyReference.cache
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\obj\Debug\MVCCrudIslemleri.dll
+C:\Users\Section1\Desktop\MS-YAZ16 Ortak\yeni_mvc\28.12.2017\MVCCrudIslemleri\MVCCrudIslemleri\obj\Debug\MVCCrudIslemleri.pdb

@@ -1,0 +1,57 @@
+﻿
+@{
+    Layout = null;
+}
+
+@using MVCCrudIslemleri.Data.Entities;
+@model IEnumerable<Category>
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>List</title>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+
+    <div class="container">
+
+        <div class="page-header">
+            <h1>Kategorilerimiz</h1>
+        </div>
+
+       <p> @TempData["Message"]</p>
+
+        <table class="table table-responsive table-bordered table-striped table-hover">
+            <thead>
+                <tr>
+                    <th>Kategori Adi</th>
+                    <th>Açıklaması</th>
+                    <th>İşlemler</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td>@item.Description</td>
+                        <td>
+                            <a class="btn btn-default" href="/Category/Edit/@item.Id">Düzenle</a>
+                            <a class="btn btn-danger" href="/Category/Delete/@item.Id">Sil</a>
+                        </td>
+                    </tr>
+                }
+
+            </tbody>
+        </table>
+
+    </div>
+
+    <script src="~/Scripts/jquery-1.9.1.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>
